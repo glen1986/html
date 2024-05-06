@@ -1,0 +1,40 @@
+body{
+background-color: #E2E9DF;
+background-image: url('../image/bg.jpg');
+background-repeat: repeat-x;
+}
+
+h1{
+color:  #747f70;
+margin-top: 0px;
+}
+
+p{
+color:  #4E3C2A;
+}	
+
+div{
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+border-width: 1px;
+border-style: dashed;
+border-color: #937467;
+padding:30px;
+margin-top:30px;
+}
+h2{
+color:  #C47D0D
+}	
+h3{
+color:  #C47D0D
+}
+h4{
+color:  #C47D0D
+}
+
+img{
+box-shadow: 1px 1px 3px #747f70;
+	
+}
+	
